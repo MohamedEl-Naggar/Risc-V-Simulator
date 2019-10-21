@@ -1,1 +1,2 @@
 # Risc-V-Simulator
+#The program should read a binary file containing 0's & 1's from a binary editor. Then, it converts these binary digits to a RISC-V assembly language program and then outputs to the user all the instructions, 32 registers and execute all the instructions in the program. You can generate as many test cases as you want by downloadng a binary editor then dump memory in Rars into binary and then run the program using the command line to be able to choose any test case you want. Also, the program only supports the RV32I verision.
